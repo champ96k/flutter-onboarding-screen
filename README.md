@@ -58,7 +58,7 @@ class TestScreen extends StatelessWidget {
 
 ### Created & Maintained By
 
-[Tushar Nikam](https://github.com/champ96k) ([@champ_96k](https://twitter.com/champ_96k)) 
+[Tushar Nikam](https://github.com/champ96k) 
 ([linkedin](https://www.linkedin.com/in/tushar-nikam-a29a97131/))
 
 
