@@ -49,7 +49,8 @@ class TestScreen extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-  //here we need to pass the list and the route for the next page to be opened after this.
+    /* remove the back button in the AppBar is to set automaticallyImplyLeading to false
+  here we need to pass the list and the route for the next page to be opened after this. */
     return new IntroScreen(list,MaterialPageRoute(builder: (context) => NextScreen()),
     );
   }
