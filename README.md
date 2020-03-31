@@ -1,4 +1,4 @@
-# flutteronboardingscreen
+# flutter onboarding screen
 
 A new Flutter package which help developer in creating a onboarding screen of thier app.
 
