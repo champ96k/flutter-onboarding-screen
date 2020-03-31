@@ -61,7 +61,7 @@ How to use
 
 ## Created & Maintained By
 
-#Tushar Nikam
+# Tushar Nikam
 
 [Github](https://github.com/champ96k)         
 
