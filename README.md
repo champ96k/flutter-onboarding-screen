@@ -5,7 +5,8 @@ A new Flutter package for both android and iOS which help developer in creating 
 
 ## Screenshots
 
-<img src="Screenshot1.JPG" height="300em" />  <img src="Screenshot2.JPG" height="300em" />  <img src="Screenshot3.JPG" height="300em" />
+![](https://i.imgur.com/nFHnEOA.jpg)
+
 
 ## Usage
 
