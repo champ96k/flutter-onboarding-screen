@@ -24,6 +24,15 @@ To use this package :
               
 How to use
 
+
+import 'package:markdown/markdown.dart';
+
+void main() {
+  print(markdownToHtml('Hello <span class="green">Markdown</span>',
+      inlineSyntaxes: [new InlineHtmlSyntax()]));
+  //=> <p>Hello <span class="green">Markdown</span></p>
+}
+
 '''dart
     class TestScreen extends StatelessWidget {
         /*here we have a list of OnbordingScreen which we want to have,
