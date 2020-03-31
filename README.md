@@ -15,12 +15,13 @@ To use this package :
 
 * add the dependency to your [pubspec.yaml](https://github.com/champ96k/flutter-onboarding-screen/blob/master/pubspec.yaml) file.
 
-'''yaml
-       dependencies:
-          flutter:
-            sdk: flutter
-          flutter_onboarding_screen:
-'''
+              '''yaml
+                     dependencies:
+                        flutter:
+                          sdk: flutter
+                        flutter_onboarding_screen:
+              '''
+              
 How to use
 
 '''dart
@@ -64,7 +65,12 @@ How to use
 
 ## Created & Maintained By
 
-[Tushar Nikam](https://github.com/champ96k)         [linkedin](https://www.linkedin.com/in/tushar-nikam-a29a97131/)
+#Tushar Nikam
+
+[Github](https://github.com/champ96k)         
+
+
+[linkedin](https://www.linkedin.com/in/tushar-nikam-a29a97131/)
 
    
 
