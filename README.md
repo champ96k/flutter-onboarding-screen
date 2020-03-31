@@ -1,4 +1,4 @@
-# flutter onboarding screen
+# Flutter Onboarding screen
 
 A new Flutter package for both android and iOS which help developer in creating a onboarding screen of their app.
 
@@ -22,7 +22,7 @@ To use this package :
                         flutter_onboarding_screen:
               
               
-How to use
+# How to use
 
     class TestScreen extends StatelessWidget {
           /*here we have a list of OnbordingScreen which we want to have,
@@ -61,7 +61,7 @@ How to use
 
 ## Created & Maintained By
 
-### Tushar Nikam
+#### Tushar Nikam
 
 [Github](https://github.com/champ96k)         
 
