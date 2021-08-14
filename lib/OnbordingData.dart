@@ -28,14 +28,12 @@ class _OnbordingDataState extends State<OnbordingData> {
           Image(
             fit: BoxFit.fitWidth,
             width: double.infinity,
-            height: MediaQuery.of(context).size.height*0.40,
+            height: MediaQuery.of(context).size.height * 0.40,
             image: AssetImage(imagePath),
           ),
-
           SizedBox(
             height: 12.0,
           ),
-
           Flexible(
             child: Padding(
               padding: const EdgeInsets.symmetric(horizontal: 8.0),

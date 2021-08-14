@@ -84,8 +84,8 @@ class IntroScreenState extends State<IntroScreen> {
                   onPressed: () => lastPage
                       ? null
                       : widget.skipPage(
-                    context,
-                  ),
+                          context,
+                        ),
                 ),
                 Padding(
                   padding: const EdgeInsets.symmetric(vertical: 16.0),
@@ -108,8 +108,8 @@ class IntroScreenState extends State<IntroScreen> {
                   onPressed: () => lastPage
                       ? widget.skipPage(context)
                       : controller.nextPage(
-                      duration: Duration(milliseconds: 300),
-                      curve: Curves.easeIn),
+                          duration: Duration(milliseconds: 300),
+                          curve: Curves.easeIn),
                 ),
               ],
             ),
