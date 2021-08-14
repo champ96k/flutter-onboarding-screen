@@ -75,7 +75,7 @@ class IntroScreenState extends State<IntroScreen> {
               mainAxisAlignment: MainAxisAlignment.spaceBetween,
               crossAxisAlignment: CrossAxisAlignment.end,
               children: <Widget>[
-                new FlatButton(
+                new TextButton(
                   child: new Text(lastPage ? "" : "SKIP",
                       style: new TextStyle(
                           color: Colors.black,
@@ -99,7 +99,7 @@ class IntroScreenState extends State<IntroScreen> {
                     ),
                   ),
                 ),
-                FlatButton(
+                TextButton(
                   child: new Text(lastPage ? "GOT IT" : "NEXT",
                       style: new TextStyle(
                           color: Colors.black,
